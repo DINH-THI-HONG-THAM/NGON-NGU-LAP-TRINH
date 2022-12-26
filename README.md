@@ -15,11 +15,11 @@
 - [bai 3 Viết chương trình giải và biện luận phương trình bậc nhất ax + b = 0](https://www.jdoodle.com/embed/v0/5B2n)
 - [bai 4 Nhập vào tháng của một năm. Cho biết tháng thuộc quí mấy trong năm. Ví dụ tháng 1, 2, 3 thuộc quý một; 4, 5, 6 thuộc quý hai,... ](https://www.jdoodle.com/embed/v0/5B2l)
 ## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
-- [bai vd3 Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5F1Z)
+- [bai vd3 phần for Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5F1Z)
 
 
 
-
+###
 
 
 
