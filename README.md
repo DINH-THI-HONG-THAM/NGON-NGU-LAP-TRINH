@@ -21,7 +21,7 @@
 - []()
 
 
-### [Cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+### [Phần btlt Cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 - [bài 3  Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5FU2)
 - []()
 - []()
