@@ -16,11 +16,17 @@
 - [bai 4 Nhập vào tháng của một năm. Cho biết tháng thuộc quí mấy trong năm. Ví dụ tháng 1, 2, 3 thuộc quý một; 4, 5, 6 thuộc quý hai,... ](https://www.jdoodle.com/embed/v0/5B2l)
 ## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 - [bai vd3 phần for Chương trình hiển thị giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/embed/v0/5F1Z)
+- []()
+- []()
+- []()
 
 
-
-###
-
+### [Cấu trúc lặp (for, while, do/while)](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+- [bài 3  Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5FU2)
+- []()
+- []()
+- []()
+- []()
 
 
 
