@@ -29,6 +29,23 @@
 - []()
 - []()
 
+## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+- []()
+- []()
+- []()
+## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+
+
+
+
 
 
 
