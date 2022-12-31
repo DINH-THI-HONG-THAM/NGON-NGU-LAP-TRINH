@@ -55,6 +55,6 @@
 - [ chu vi diện tích hình tròn](https://www.jdoodle.com/embed/v0/5wrx)
 ## Kt ngày 20/12/22
 - [ baì kiểm tra 1 (20/12/22)](https://www.jdoodle.com/embed/v0/5F2e)
-- [ baì kiểm tra 2 (20/12/22)](https://www.jdoodle.com/embed/v0/5F2p)
+- [ baì kiểm tra 2 (20/12/22)](https://www.jdoodle.com/a/5F2p)
 ## bt ngày 26/12/22
 - [tách số vÀ tổng kí số](https://www.jdoodle.com/a/5FUt)
