@@ -36,7 +36,7 @@
 ## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 - []()
 - []()
-- []()
+- [](https://www.jdoodle.com/a/5FUt)
 - []()
 
 
