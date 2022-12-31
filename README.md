@@ -9,7 +9,7 @@
 - [bai 3.2  là chẵn hay lẻ.](https://www.jdoodle.com/a/5Ax9)
 - [bai 3.3 nhập điểm học sinh từ 0 đến 10 ](https://www.jdoodle.com/a/5AwZ)
 - [bai 3.4  + tổng - hiệu](https://www.jdoodle.com/a/5Ayr )
-### [phan btlt if else]
+### phan btlt if else
 - [bai 1 min max 3 số](https://www.jdoodle.com/a/5B28)
 - [bai 2 cùng dấu hay khác](https://www.jdoodle.com/a/5B22)
 - [bai 3 ax + b = 0](https://www.jdoodle.com/a/5B2n)
