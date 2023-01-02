@@ -15,9 +15,10 @@
 - [bai 3 ax + b = 0](https://www.jdoodle.com/a/5B2n)
 - [bai 4 Cho biết tháng thuộc quí mấy trong năm ](https://www.jdoodle.com/a/5B2l)
 ## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
+### phần trong bài
 - [bai vd3 phần for  giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/a/5F1Z)
-- [bai vd3 phần whilen nhỏ nhất sao cho 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5G1Z)
-- []()
+- [bai vd3 phần whilen nhỏ nhất sao cho 1 + 2 +...+ n > 10000](https://www.jdoodle.comaa/5G1Z)
+- [bai vd  số lẻ nhỏ hơn 100 trừ các số 5, 7, 93. ](https://www.jdoodle.com/a/5Gyl)
 - []()
 
 
