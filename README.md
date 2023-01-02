@@ -23,13 +23,15 @@
 
 
 ### Phần btlt Cấu trúc lặp (for, while, do/while)
-- [bài 1 /*Viết chương trình tính tổng S = 1^3 + 2^3 + 3^3 +...+ N^3*/](https://www.jdoodle.com/a/5Gyo)
+- [bài 1 S = 1^3 + 2^3 + 3^3 +...+ N^3](https://www.jdoodle.com/a/5Gyo)
 - [bài 2 Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000.](https://www.jdoodle.com/a/5FU9)
 - [bài 3  Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5FU2)
+- [Bài 4 tổng các giá trị lẻ nguyên dương nhỏ hơn N.](https://www.jdoodle.com/a/5Gyx)
 - []()
 - []()
-- []()
-- []()
+
+
+
 
 ## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 - []()
@@ -40,6 +42,12 @@
 - []()
 - 
 - []()
+
+## [Bài 7: Chuỗi](https://hoctructuyencntt.github.io/NNLT/Bai07.html)
+
+
+
+## [Bài 8: Con trỏ](https://hoctructuyencntt.github.io/NNLT/Bai08.html)
 
 
 
