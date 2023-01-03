@@ -27,7 +27,7 @@
 ### phần trong bài
 
 - [bai 1 phần for  giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/a/5F1Z)
-- [bai 2 phần whilen nhỏ nhất sao cho 1 + 2 +...+ n > 10000](https://www.jdoodle.comaa/5G1Z)
+- [bai 2 phần whilen nhỏ nhất sao cho 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5G1Z)
 - [bai 3 số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N ]()
 - [bai 4 số lẻ nhỏ hơn 100 trừ các số 5, 7, 93. ](https://www.jdoodle.com/a/5Gyl)
 
