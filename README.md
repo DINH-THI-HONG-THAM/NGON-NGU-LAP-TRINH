@@ -58,27 +58,19 @@
 
 - []()
 - []()
-- []()
-- []()
 
-## [Bài 7: Chuỗi](https://hoctructuyencntt.github.io/NNLT/Bai07.html)
-- []()
-- []()
-- []()
-
-
-## [Bài 8: Con trỏ](https://hoctructuyencntt.github.io/NNLT/Bai08.html)
 
 - []()
 - []()
-
-
-
+- []()
 
 ## [Bài 9: Trừu tượng hóa dữ liệu](https://hoctructuyencntt.github.io/NNLT/Bai09.html)
 
-
-
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 ## Bài tập khác
