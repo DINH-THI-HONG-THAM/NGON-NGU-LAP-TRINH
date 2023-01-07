@@ -93,6 +93,6 @@ Sau khi hoan vi: x = 5 y = 3]()
 ## bt ngày 26/12/22
 - [tách số vÀ tổng kí số](https://www.jdoodle.com/a/5FUt)
 ## bt ngày 3/1/23
--[bài 1]()
--[bài 2]()
--[bài 3]()
+- [bài 1]()
+- [bài 2]()
+- [bài 3]()
