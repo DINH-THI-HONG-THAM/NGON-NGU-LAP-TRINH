@@ -49,10 +49,10 @@
 - [bài 1 Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n](https://www.jdoodle.com/a/5HAp)
 - [bài 2 Truoc khi hoan vi: x = 3 y = 5 Sau khi hoan vi: x = 5 y = 3](https://www.jdoodle.com/a/5HAs)
 ### phần btlt
-- []()
-- []()
-- []()
-- []()
+- [bài 1 Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả. ]()
+- [bài 2. Thực hiện lại câu 1 sử dụng truyền tham số các hàm nhap(), xuli(), xuat().]()
+- [bài 3 tính tổng 1 + 2 +...+ n ]()
+- [bài 4  Viết chương trình nhập n và tính tổng S = x + x^2 + x3 + x4 +…+ xn, x là số thực bất kỳ.]()
 
 ## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 
