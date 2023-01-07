@@ -45,7 +45,13 @@
 
 
 ## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
-
+### phần trong bài
+- [bài 1 Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n](https://www.jdoodle.com/a/5HAp)
+- [bài 2 Điều chỉnh nội dung hàm hoanvi(x, y) để xuất ra màn hình:
+Truoc khi hoan vi: x = 3 y = 5
+Sau khi hoan vi: x = 5 y = 3]()
+### phần btlt
+- []()
 - []()
 - []()
 - []()
@@ -86,3 +92,7 @@
 - [ baì kiểm tra 2 (20/12/22)](https://www.jdoodle.com/a/5F2p)
 ## bt ngày 26/12/22
 - [tách số vÀ tổng kí số](https://www.jdoodle.com/a/5FUt)
+## bt ngày 3/1/23
+-[bài 1]()
+-[bài 2]()
+-[bài 3]()
