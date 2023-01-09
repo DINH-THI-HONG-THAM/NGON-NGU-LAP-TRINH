@@ -55,10 +55,10 @@
 - [bài 4  Viết chương trình nhập n và tính tổng S = x + x^2 + x3 + x4 +…+ xn, x là số thực bất kỳ.](chưa làm)
 
 ## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
-
+### phần trong bài
+- [bài 1 Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất của mảng.](https://www.jdoodle.com/a/5HL1)
 - []()
-- []()
-
+### phần trong btlt
 
 - []()
 - []()
