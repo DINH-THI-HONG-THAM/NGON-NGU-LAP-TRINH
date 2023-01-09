@@ -28,7 +28,7 @@
 
 - [bai 1 phần for  giá trị tổng S = 1 + 1/2 + 1/3 +...+ 1/n](https://www.jdoodle.com/a/5F1Z)
 - [bai 2 phần whilen nhỏ nhất sao cho 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5G1Z)
-- [bai 3 số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N ]()
+- [bai 3 số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N ](chưa làm)
 - [bai 4 số lẻ nhỏ hơn 100 trừ các số 5, 7, 93. ](https://www.jdoodle.com/a/5Gyl)
 
 ### Phần btlt Cấu trúc lặp (for, while, do/while)
@@ -49,10 +49,10 @@
 - [bài 1 Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n](https://www.jdoodle.com/a/5HAp)
 - [bài 2 Truoc khi hoan vi: x = 3 y = 5 Sau khi hoan vi: x = 5 y = 3](https://www.jdoodle.com/a/5HAs)
 ### phần btlt
-- [bài 1 Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả. ]()
-- [bài 2. Thực hiện lại câu 1 sử dụng truyền tham số các hàm nhap(), xuli(), xuat().]()
-- [bài 3 tính tổng 1 + 2 +...+ n ]()
-- [bài 4  Viết chương trình nhập n và tính tổng S = x + x^2 + x3 + x4 +…+ xn, x là số thực bất kỳ.]()
+- [bài 1 Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả. ](chưa làm)
+- [bài 2. Thực hiện lại câu 1 sử dụng truyền tham số các hàm nhap(), xuli(), xuat().](chưa làm)
+- [bài 3 tính tổng 1 + 2 +...+ n ](chưa làm)
+- [bài 4  Viết chương trình nhập n và tính tổng S = x + x^2 + x3 + x4 +…+ xn, x là số thực bất kỳ.](chưa làm)
 
 ## [Bài 6: Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 
