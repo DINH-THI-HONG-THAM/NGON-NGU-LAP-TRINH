@@ -82,7 +82,5 @@
 - [ baì kiểm tra 2 (20/12/22)](https://www.jdoodle.com/a/5F2p)
 ## bt ngày 26/12/22
 - [tách số vÀ tổng kí số](https://www.jdoodle.com/a/5FUt)
-## bt ngày 3/1/23
-- [bài 1]()
-- [bài 2]()
-- [bài 3]()
+## bài thi ngày 10/1/2023
+- [bài thi](https://www.jdoodle.com/a/5I47)
