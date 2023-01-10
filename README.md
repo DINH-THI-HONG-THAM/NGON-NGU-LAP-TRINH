@@ -39,7 +39,6 @@
 - [Bài 4 tổng các giá trị lẻ nguyên dương nhỏ hơn N.](https://www.jdoodle.com/a/5Gyx)
 - [bài 5 m lớn nhất sao cho S = 1 + 2 + 3 +…+ m < N](https://www.jdoodle.com/a/5GzN)
 - [bài 6 In tất cả các số nguyên dương lẻ nhỏ hơn 100.](https://www.jdoodle.com/a/5GA8)
-- [bài 7 Tìm ước số chung lớn nhất của hai số nguyên dương a, b.](https://www.jdoodle.com/a/5GA0)
 - [bài 8  Viết chương trình kiểm tra một số có phải là số nguyên tố hay không.](https://www.jdoodle.com/a/5GAb)
 - [bài 9 in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93](https://www.jdoodle.com/a/5Gyl)
 
